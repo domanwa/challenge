@@ -1,4 +1,4 @@
-# Project Title
+# App Challenge
 
 One Paragraph of project description goes here
 
